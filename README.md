@@ -6,9 +6,11 @@ You can use link to the dataset in my Google Drive : *https://drive.google.com/f
 **Data Retrieval and Preprocessing:**
   * Download the real estate data for sales transactions from the provided link.
   * Load the data into Python and perform necessary data preprocessing steps, such as handling missing values and data type conversions.
+
 **Data Overview:**
   * Provide a summary of the dataset, including the number of records, number of features, and basic statistics (e.g., mean, median, min, max) for key numeric variables.
   * Describe the columns in the dataset and their respective meanings.
+    
 **Time Series Analysis:**
   * Analyze the trends in real estate sales over time.
   * Create visualizations, such as line plots or bar graphs, to illustrate the changes in sales over different time periods (e.g., months, quarters, years).

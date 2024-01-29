@@ -14,20 +14,26 @@ You can use link to the dataset in my Google Drive : *https://drive.google.com/f
 **Time Series Analysis:**
   * Analyze the trends in real estate sales over time.
   * Create visualizations, such as line plots or bar graphs, to illustrate the changes in sales over different time periods (e.g., months, quarters, years).
+    
 **Property Type Analysis:**
   * Explore the different types of properties sold in Dubai.
   * Determine the most common property types and visualize their distribution using pie charts or bar plots.
+    
 **Price Distribution:**
   * Investigate the distribution of property prices in Dubai.
   * Create a histogram to display the frequency distribution of property prices.
+    
 **Location Analysis:**
   * Analyze the geographic distribution of real estate sales in Dubai.
   * Use maps or geographical plots to visualize the areas with the highest sales volume.
+    
 **Seasonal Patterns:**
   * Identify any seasonal patterns in real estate sales data.
   * Explore if there are specific times of the year when sales tend to peak or drop.
+    
 **Correlation Analysis:**
   * Investigate potential correlations between property prices and other relevant features in the dataset.
   * Create correlation matrices and visualize correlations using heatmaps.
+    
 **Price Prediction**
- * If you feel comfortable with advanced analysis, you can attempt to build a simple price prediction model based on property features like size, location, and property type.
+ * You can attempt to build a simple price prediction model based on property features like size, location, and property type.
